@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/COMM_170_Week5_Wu_Scene1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

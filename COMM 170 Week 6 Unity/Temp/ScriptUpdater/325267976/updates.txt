@@ -1,0 +1,1 @@
+Temp/ScriptUpdater/325267976/1753147766_Resizer.cs => Assets/Sketchfab For Unity/Scripts/Resizer.cs
